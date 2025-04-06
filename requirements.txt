@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings  
+requests
+speechrecognition
+pyttsx3
+langchain-ollama
+langchain-community
+pydub
+python-dateutil
+chromadb
+langchain-chroma
+tensorflow
+pillow
+python-multipart
